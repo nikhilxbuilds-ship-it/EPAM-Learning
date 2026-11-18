@@ -1,0 +1,80 @@
+# Git Hands-on Practice Log
+
+ 
+**Status:** In Progress
+
+
+
+## Exercise 1 – Checked installation and configure Git
+```bash
+git --version
+git config --global user.name "Nikhil Kumar"
+git config --global user.email "YOUR_GITHUB_EMAIL"
+git config --global --list
+```
+
+## Exercise 2 – Create a local repository
+Open a terminal in this project folder and run:
+```bash
+git init
+git status
+```
+
+## Exercise 3 – Stage and commit
+```bash
+git add README.md notes.md practice/hello.py practice-log.md
+git status
+git commit -m "Add initial Git learning materials"
+git log --oneline
+```
+
+## Exercise 4 – Make and commit a change
+Edit `practice/hello.py`, then run:
+```bash
+git diff
+git add practice/hello.py
+git commit -m "Update Python practice example"
+git log --oneline
+```
+
+## Exercise 5 – Create a branch
+```bash
+git switch -c practice-branch
+```
+Make a small change to `practice/hello.py`, stage and commit it:
+```bash
+git add practice/hello.py
+git commit -m "Practise working on a branch"
+git switch main
+git merge practice-branch
+git log --oneline --graph --all
+```
+
+If your default branch is named `master`, use `master` instead of `main`.
+
+## Exercise 6 – Publish on GitHub
+1. Create a **public** empty repository on GitHub. Do not initialise it with a README if you already have one locally.
+2. Copy its HTTPS repository URL.
+3. Run the following, replacing the URL:
+```bash
+git remote add origin YOUR_REPOSITORY_URL
+git branch -M main
+git push -u origin main
+```
+4. Refresh the GitHub page and confirm that your files are visible.
+
+## Practice evidence
+Add your own observations here:
+- What did `git status` show before staging?
+- What changed after `git add`?
+- What does a commit represent?
+- What happened when you switched branches and merged?
+- Paste your public GitHub repository URL:
+
+## Completion record
+Only tick these after doing them:
+- [ ] Git installed and configured
+- [ ] Local repository initialised
+- [ ] Changes staged and committed
+- [ ] Branch created and merged
+- [ ] Repository pushed to GitHub
