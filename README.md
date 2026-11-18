@@ -1,10 +1,10 @@
 # EPAM CoE – Learning Journey
 
 **Learner:** Nikhil Kumar  
-**Program:** EPAM CoE Learning Program  
+**Program:** EPAM Learning Program  
 **Repository status:** Learning in progress
 
-This repository tracks my learning across the five topics assigned in the EPAM CoE program. It will contain notes written in my own words, practical exercises, experiments, and progress updates.
+This repository tracks my learning across the five topics assigned in the EPAM Mentorship program. It will contain notes written in my own words, practical exercises, experiments, and progress updates.
 
 ## Learning roadmap
 
