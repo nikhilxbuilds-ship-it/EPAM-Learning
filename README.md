@@ -1,4 +1,4 @@
-# EPAM CoE – Learning Journey
+# EPAM – Learning 
 
 **Learner:** Nikhil Kumar  
 **Program:** EPAM Learning Program  
