@@ -1,10 +1,10 @@
 # Context Management
 
-**Status:** Not Started
+**Status:** In Progress
 
-Document techniques for providing useful information to an LLM.
+Documenting techniques for providing useful information to an LLM.
 
-Suggested areas:
+Areas to explore:
 - Selecting relevant information
 - Structuring instructions and reference material
 - Managing long context
@@ -12,4 +12,4 @@ Suggested areas:
 - Retrieval and ranking
 - Avoiding noisy or conflicting context
 
-Add practical examples and observations as you learn.
+
