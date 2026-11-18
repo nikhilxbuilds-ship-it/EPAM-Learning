@@ -1,8 +1,8 @@
 # Context Engineering – Learning Notes
 
-**Status:** Not Started
+**Status:** In Progress
 
-Suggested areas:
+Topics:
 - What is context engineering?
 - Prompt context vs conversation context
 - Context windows and token limits
@@ -11,4 +11,4 @@ Suggested areas:
 - Memory and conversation history
 - Managing irrelevant or conflicting context
 
-Add your own explanations and examples after studying.
+
