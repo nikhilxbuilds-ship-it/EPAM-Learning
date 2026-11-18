@@ -57,5 +57,4 @@ A commit records a meaningful set of staged changes. Good commit messages descri
 - `Document basic Git commands`
 - `Fix greeting output`
 
-## 7. What I learned
-After completing the practice, write 3–5 points here in your own words. For example, explain the difference between staging and committing, and between Git and GitHub.
+
