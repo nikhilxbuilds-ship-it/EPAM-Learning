@@ -10,11 +10,11 @@ This repository tracks my learning across the five topics assigned in the EPAM C
 
 | Topic | Status |
 |---|---|
-| Git | In Progress |
+| Git | Competed |
 | Python | Not Started |
-| AI Foundations | Not Started |
-| Prompt Evaluation | Not Started |
-| Context Engineering | Not Started |
+| AI Foundations | In Progress |
+| Prompt Evaluation | In Progress |
+| Context Engineering | In Progress |
 
 ## Repository structure
 
@@ -31,6 +31,6 @@ For each topic, I will:
 2. Write concise notes in my own words.
 3. Complete practical exercises.
 4. Record experiments, observations, and takeaways.
-5. Update the status only when the corresponding work is genuinely completed.
 
-**Note:** A topic marked `Not Started` is a planned learning area, not completed work.
+
+
