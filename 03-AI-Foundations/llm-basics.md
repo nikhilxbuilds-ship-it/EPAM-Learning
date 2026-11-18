@@ -1,8 +1,8 @@
 # LLM Basics
 
-**Status:** Not Started
+**Status:** In Progress
 
-Suggested areas:
+Topics to cover:
 - What is a large language model?
 - Tokens and tokenisation
 - Embeddings
@@ -11,4 +11,3 @@ Suggested areas:
 - Context windows
 - Limitations such as hallucinations
 
-Add your own notes and examples as you learn.
