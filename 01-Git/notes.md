@@ -19,5 +19,3 @@ Git is a distributed version control system. It tracks changes to files and help
 ## Basic workflow
 Edit files → stage changes → commit changes → push commits to a remote repository.
 
-## What I learned
-Add your own explanation and examples as you practise.
