@@ -1,8 +1,8 @@
 # Prompt Evaluation – Learning Notes
 
-**Status:** Not Started
+**Status:** In Progress
 
-Suggested areas:
+Areas:
 - What makes a prompt effective?
 - Criteria for evaluating model outputs
 - Accuracy and relevance
@@ -10,4 +10,4 @@ Suggested areas:
 - Bias and safety checks
 - Human evaluation vs automated evaluation
 
-Document the evaluation methods you learn and when they are useful.
+
