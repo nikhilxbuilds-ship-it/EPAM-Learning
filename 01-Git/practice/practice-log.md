@@ -1,6 +1,6 @@
 # Git Practice Log
 
-**Status:** In Progress
+**Status:** Completed
 
 Record only exercises you have actually performed.
 
